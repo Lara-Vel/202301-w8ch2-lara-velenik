@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LorenaAnayaDiaz/202301-w7chwe-back--lara-lorena.git"
+    "url": "https://github.com/Lara-Vel/202301-w8ch2-lara-velenik.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LorenaAnayaDiaz/202301-w7chwe-back--lara-lorena/issues"
+    "url": "https://github.com/Lara-Vel/202301-w8ch2-lara-velenik/issues"
   },
-  "homepage": "https://github.com/LorenaAnayaDiaz/202301-w7chwe-back--lara-lorena#readme",
+  "homepage": "https://github.com/Lara-Vel/202301-w8ch2-lara-velenik#readme",
   "devDependencies": {
     "@types/bunyan": "^1.8.8",
     "@types/cors": "^2.8.13",
