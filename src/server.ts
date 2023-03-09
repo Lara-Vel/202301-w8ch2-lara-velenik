@@ -7,7 +7,7 @@ import mongoose from 'mongoose';
 dotenv.config();
 
 const port = process.env.PORT ?? 3000;
-const mongoUrl = process.env.MONGO_URL ?? '';
+const mongoUrl = process.env.MONGO_DB ?? '';
 mongoose.set('strictQuery', false);
 
 app.listen(port, async () => {
