@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.json({ hello: 'World' });
+  res.json('Server is working!!');
 });
 app.use(express.json());
 
